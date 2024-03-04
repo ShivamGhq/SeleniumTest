@@ -1,0 +1,145 @@
+[INFO ] 2024-03-01 10:45:07.540 [main] Add_pincode - First
+[INFO ] 2024-03-01 10:47:14.282 [main] Add_pincode - First
+[INFO ] 2024-03-01 11:35:28.184 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 11:35:32.683 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 11:35:32.684 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 11:35:34.289 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 12:23:40.220 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:23:42.428 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 12:23:42.429 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 12:23:44.177 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 12:24:04.633 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:25:25.562 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:38:56.478 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:39:02.656 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 12:39:02.656 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 12:39:05.593 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 12:39:27.685 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:40:15.184 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:45:21.228 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:45:23.411 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 12:45:23.412 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 12:45:24.657 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 12:46:42.288 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:47:05.796 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 12:47:08.159 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 12:47:08.160 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 12:47:09.555 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 12:59:58.823 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 13:01:48.103 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 13:01:51.582 [main] Add_pincode - extent report created successfully
+[INFO ] 2024-03-01 13:05:15.044 [main] CheckRegistered_With_MobileNumber - Flipkart is opening
+[INFO ] 2024-03-01 13:05:17.329 [main] CheckRegistered_With_MobileNumber - Click on the Login Button
+[INFO ] 2024-03-01 13:05:18.526 [main] CheckRegistered_With_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 13:05:21.174 [main] CheckRegistered_With_MobileNumber - enter Mobile Mobile Number
+[INFO ] 2024-03-01 13:05:21.323 [main] CheckRegistered_With_MobileNumber - click on continue button
+[INFO ] 2024-03-01 13:05:22.268 [main] CheckRegistered_With_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 13:44:42.791 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 13:44:47.473 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 13:44:47.474 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 13:44:49.435 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 13:44:50.483 [main] Add_pincode - extent report created successfully
+[INFO ] 2024-03-01 13:48:44.443 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 13:49:05.765 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 13:49:08.087 [main] Add_pincode - Navigate to Grocery Tab
+[INFO ] 2024-03-01 13:49:08.088 [main] Add_pincode - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 13:49:09.431 [main] Add_pincode - Entering the PinCode
+[INFO ] 2024-03-01 13:49:10.422 [main] Add_pincode - extent report created successfully
+[INFO ] 2024-03-01 15:32:45.614 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 15:41:58.205 [main] Appliance_Navigate - Launching the Flipkart Browser 
+[INFO ] 2024-03-01 15:42:02.642 [main] Appliance_Navigate - Clicking on the Appliance tab 
+[INFO ] 2024-03-01 15:42:04.655 [main] Appliance_Navigate - extent report created successfully
+[INFO ] 2024-03-01 16:06:31.170 [main] Add_pincode - Launching the chrome Browser
+[INFO ] 2024-03-01 16:07:47.014 [main] CheckRegistered_With_Empty_MobileNumber - Launching the Flipkart Browser
+[INFO ] 2024-03-01 16:07:49.443 [main] CheckRegistered_With_Empty_MobileNumber - Click on login tab
+[INFO ] 2024-03-01 16:07:51.075 [main] CheckRegistered_With_Empty_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 16:07:51.175 [main] CheckRegistered_With_Empty_MobileNumber - Entering the mobile Number 
+[INFO ] 2024-03-01 16:07:51.235 [main] CheckRegistered_With_Empty_MobileNumber - Click on continue Button
+[INFO ] 2024-03-01 16:07:55.573 [main] CheckRegistered_With_Empty_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 16:08:19.688 [main] CheckRegistered_With_Empty_MobileNumber - Launching the Flipkart Browser
+[INFO ] 2024-03-01 16:08:21.819 [main] CheckRegistered_With_Empty_MobileNumber - Click on login tab
+[INFO ] 2024-03-01 16:08:22.743 [main] CheckRegistered_With_Empty_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 16:08:23.703 [main] CheckRegistered_With_Empty_MobileNumber - Entering the mobile Number 
+[INFO ] 2024-03-01 16:08:23.768 [main] CheckRegistered_With_Empty_MobileNumber - Click on continue Button
+[INFO ] 2024-03-01 16:08:28.177 [main] CheckRegistered_With_Empty_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 16:10:18.421 [main] CheckRegistered_With_Empty_MobileNumber - Launching the Flipkart Browser
+[INFO ] 2024-03-01 16:10:20.897 [main] CheckRegistered_With_Empty_MobileNumber - Click on login tab
+[INFO ] 2024-03-01 16:10:21.888 [main] CheckRegistered_With_Empty_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 16:10:21.993 [main] CheckRegistered_With_Empty_MobileNumber - Leave the field enter mobile Number 
+[INFO ] 2024-03-01 16:10:23.921 [main] CheckRegistered_With_Empty_MobileNumber - Click on continue Button
+[INFO ] 2024-03-01 16:10:24.375 [main] CheckRegistered_With_Empty_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 16:14:05.503 [main] Mobile_Navigate - Flipkart is opening
+[INFO ] 2024-03-01 16:14:07.358 [main] Mobile_Navigate - Click on the Mobile Tab 
+[INFO ] 2024-03-01 16:14:08.486 [main] Mobile_Navigate - Again Loading Flipkart to check Groups Method
+[INFO ] 2024-03-01 16:14:10.535 [main] Mobile_Navigate - extent report created successfully
+[INFO ] 2024-03-01 16:30:03.734 [main] First - Opening Flipkart
+[INFO ] 2024-03-01 16:30:05.903 [main] First - Enter the product name 
+[INFO ] 2024-03-01 16:30:06.028 [main] First - Click on Search Button
+[INFO ] 2024-03-01 16:30:10.821 [main] First - Opening Login Page
+[INFO ] 2024-03-01 16:30:11.332 [main] First - extent report created successfully
+[INFO ] 2024-03-01 16:31:05.645 [main] CheckRegistered_With_MobileNumber - Flipkart is opening
+[INFO ] 2024-03-01 16:31:10.159 [main] CheckRegistered_With_MobileNumber - Click on the Login Button
+[INFO ] 2024-03-01 16:31:11.941 [main] CheckRegistered_With_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 16:31:12.030 [main] CheckRegistered_With_MobileNumber - enter Mobile Mobile Number
+[INFO ] 2024-03-01 16:31:12.108 [main] CheckRegistered_With_MobileNumber - click on continue button
+[INFO ] 2024-03-01 16:31:12.690 [main] CheckRegistered_With_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 16:31:30.895 [main] CheckRegistered_With_MobileNumber - Flipkart is opening
+[INFO ] 2024-03-01 16:31:33.075 [main] CheckRegistered_With_MobileNumber - Click on the Login Button
+[INFO ] 2024-03-01 16:31:34.560 [main] CheckRegistered_With_MobileNumber - Click on Account Tab
+[INFO ] 2024-03-01 16:31:34.676 [main] CheckRegistered_With_MobileNumber - enter Mobile Mobile Number
+[INFO ] 2024-03-01 16:31:34.743 [main] CheckRegistered_With_MobileNumber - click on continue button
+[INFO ] 2024-03-01 16:31:35.032 [main] CheckRegistered_With_MobileNumber - extent report created successfully
+[INFO ] 2024-03-01 16:35:01.547 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-01 16:35:03.722 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-01 16:35:03.722 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-01 16:35:04.990 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-01 16:37:02.000 [main] First - Opening Flipkart
+[INFO ] 2024-03-01 16:37:06.146 [main] First - Enter the product name 
+[INFO ] 2024-03-01 16:37:06.255 [main] First - Click on Search Button
+[INFO ] 2024-03-01 16:37:06.314 [main] First - Opening Login Page
+[INFO ] 2024-03-01 16:37:10.120 [main] First - extent report created successfully
+[INFO ] 2024-03-01 16:37:48.199 [main] First - Opening Flipkart
+[INFO ] 2024-03-01 16:37:50.280 [main] First - Enter the product name 
+[INFO ] 2024-03-01 16:37:50.439 [main] First - Click on Search Button
+[INFO ] 2024-03-01 16:37:50.497 [main] First - Opening Login Page
+[INFO ] 2024-03-01 16:37:55.636 [main] First - extent report created successfully
+[INFO ] 2024-03-01 17:56:23.576 [main] Add_pincode - extent report created successfully
+[INFO ] 2024-03-01 18:01:02.981 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-01 18:01:07.941 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-01 18:01:07.941 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-01 18:01:12.402 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-01 21:24:09.339 [main] Appliance_Navigate - Launching the Flipkart Browser 
+[INFO ] 2024-03-01 21:24:13.309 [main] Appliance_Navigate - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 21:24:14.860 [main] Appliance_Navigate - Entering the PinCode
+[INFO ] 2024-03-01 21:24:15.240 [main] Appliance_Navigate - extent report created successfully
+[INFO ] 2024-03-01 21:25:01.152 [main] Appliance_Navigate - Launching the Flipkart Browser 
+[INFO ] 2024-03-01 21:25:03.935 [main] Appliance_Navigate - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 21:25:05.037 [main] Appliance_Navigate - Entering the PinCode
+[INFO ] 2024-03-01 21:25:05.412 [main] Appliance_Navigate - extent report created successfully
+[INFO ] 2024-03-01 21:33:34.737 [main] Appliance_Navigate - Launching the Flipkart Browser 
+[INFO ] 2024-03-01 21:33:36.772 [main] Appliance_Navigate - Clicking on  the Grocery Item
+[INFO ] 2024-03-01 21:33:37.714 [main] Appliance_Navigate - Entering the PinCode
+[INFO ] 2024-03-01 21:33:38.059 [main] Appliance_Navigate - extent report created successfully
+[INFO ] 2024-03-01 21:34:28.745 [main] Appliance_Navigate - Launching the Flipkart Browser 
+[INFO ] 2024-03-01 21:34:30.603 [main] Appliance_Navigate - Clicking on the Appliance tab 
+[INFO ] 2024-03-01 21:34:31.883 [main] Appliance_Navigate - extent report created successfully
+[INFO ] 2024-03-01 21:38:25.629 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-01 21:38:28.006 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-01 21:38:28.006 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-01 21:38:29.000 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-02 07:43:13.957 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-02 07:43:15.967 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-02 07:43:15.967 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-02 07:43:16.944 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-02 07:45:36.695 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-02 07:45:38.901 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-02 07:45:38.901 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-02 07:45:39.859 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-02 07:47:02.957 [main] Travel_Navigate - Opening Flipkart Browser
+[INFO ] 2024-03-02 07:47:06.670 [main] Travel_Navigate - Navigate to Travel Page
+[INFO ] 2024-03-02 07:47:06.671 [main] Travel_Navigate - Click on the Travel Tab
+[INFO ] 2024-03-02 07:47:10.960 [main] Travel_Navigate - extent report created successfully
+[INFO ] 2024-03-02 07:53:18.882 [main] Mobile_Navigate - Flipkart is opening
+[INFO ] 2024-03-02 07:53:21.181 [main] Mobile_Navigate - Click on the Mobile Tab 
+[INFO ] 2024-03-02 07:53:23.403 [main] Mobile_Navigate - Again Loading Flipkart to check Groups Method
+[INFO ] 2024-03-02 07:53:26.262 [main] Mobile_Navigate - extent report created successfully

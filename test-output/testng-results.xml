@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T07:53:15 IST" name="Default suite" finished-at="2024-03-02T07:53:25 IST" duration-ms="10038">
+    <groups>
+      <group name="smoke">
+        <method signature="Mobile_Navigate.runTest()[pri:1, instance:com.test.Mobile_Navigate@6b7906b3]" name="runTest" class="com.test.Mobile_Navigate"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="Mobile_Navigate.runTest2()[pri:2, instance:com.test.Mobile_Navigate@6b7906b3]" name="runTest2" class="com.test.Mobile_Navigate"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-03-02T07:53:15 IST" name="Default test" finished-at="2024-03-02T07:53:25 IST" duration-ms="10038">
+      <class name="com.test.Mobile_Navigate">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.Mobile_Navigate@6b7906b3]" started-at="2024-03-02T07:53:15 IST" name="setUp" finished-at="2024-03-02T07:53:18 IST" duration-ms="3267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runTest()[pri:1, instance:com.test.Mobile_Navigate@6b7906b3]" started-at="2024-03-02T07:53:18 IST" name="runTest" finished-at="2024-03-02T07:53:23 IST" duration-ms="4524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method signature="runTest2()[pri:2, instance:com.test.Mobile_Navigate@6b7906b3]" started-at="2024-03-02T07:53:23 IST" name="runTest2" finished-at="2024-03-02T07:53:25 IST" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.test.Mobile_Navigate@6b7906b3]" started-at="2024-03-02T07:53:25 IST" name="close" finished-at="2024-03-02T07:53:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.test.Mobile_Navigate@6b7906b3]" started-at="2024-03-02T07:53:25 IST" name="teardown" finished-at="2024-03-02T07:53:26 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.Mobile_Navigate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
