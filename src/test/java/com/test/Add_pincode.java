@@ -92,7 +92,7 @@ public class Add_pincode {
 		if(browser.contains("Chrome")){
 			String projectPath = System.getProperty("user.dir");
 
-			System.setProperty("WebDriver.chrome.driver",projectPath+ "\\SeleniumTest1\\driver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver",projectPath+ "\\driver\\chromedriver.exe");
 
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--headless");
